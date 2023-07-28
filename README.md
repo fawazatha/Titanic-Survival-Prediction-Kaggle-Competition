@@ -47,3 +47,9 @@ After extensive data exploration, preprocessing, feature engineering, and modeli
 I am thrilled to announce that my submission achieved a remarkable rank of 295 out of 16,204 participants. This outstanding result places my model among the top 2% of all submissions, highlighting its effectiveness and the strength of my approach.
 ![Screenshot 2023-07-28 230347](https://github.com/fawazatha/Titanic-Kaggle-Competition/assets/132468764/d5c812ed-acaa-4018-8254-be4f376afbc6)
 ![Screenshot 2023-07-28 221556](https://github.com/fawazatha/Titanic-Kaggle-Competition/assets/132468764/127b850a-cea2-4535-b1f1-a035c6f1b4e7)
+
+## Acknowledgments
+I would like to thank Kaggle for providing the Titanic - Machine Learning from Disaster competition. Participating in this competition has been a valuable learning experience and an opportunity to showcase my data science skills. I am immensely thankful to the Kaggle community for their engaging discussions, and shared knowledge. I also acknowledge the valuable contributions of the authors of the libraries used in this project.
+
+## Contact Information
+For any questions, feedback, suggestions, or collaboration opportunities, please feel free to reach out to: Fawwaz Atha Rohmatullah fawazzatha@gmail.com Linkedln: https://www.linkedin.com/in/fawwaz-atha-rohmatullah-6ab2b2262/**** I appreciate your interest in my Titanic - Machine Learning from Disaster Project and hope it provides valuable insights and serves as a useful resource for your own data science endeavors.
