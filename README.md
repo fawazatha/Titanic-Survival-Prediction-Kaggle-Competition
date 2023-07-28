@@ -1,1 +1,1 @@
-# Titanic-Kaggle-Competition-Top-2-
+# Titanic Kaggle Competition Top 2%
