@@ -3,13 +3,13 @@ This Jupyter notebook presents a comprehensive solution to the Kaggle competitio
 
 # Dataset Description
 The dataset provides the ground truth label - whether each passenger survived or not, represented as 0 for no and 1 for yes. Each observation also contains attributes providing insights into the social status and privileges of each person on board:
-- Pclass: The passenger's cabin class on the ship (1st, 2nd or 3rd class)
-- Name: The name of the passenger
-- Sex: Male or female
-- Age: The age of the passenger
-- SibSp: The number of siblings and spouses with the passenger
-- Parch: The number of parents and children with the passenger
-- Ticket: The ticket number
-- Fare: How much the passenger paid for the ticket
-- Cabin: Which cabin the passenger was allocated
-- Embarked: Which port the passenger boarded from
+ - Pclass: The passenger's cabin class on the ship (1st, 2nd or 3rd class)
+ - Name: The name of the passenger
+ - Sex: Male or female
+ - Age: The age of the passenger
+ - SibSp: The number of siblings and spouses with the passenger
+ - Parch: The number of parents and children with the passenger
+ - Ticket: The ticket number
+ - Fare: How much the passenger paid for the ticket
+ - Cabin: Which cabin the passenger was allocated
+ - Embarked: Which port the passenger boarded from
