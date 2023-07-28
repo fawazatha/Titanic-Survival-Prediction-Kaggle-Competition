@@ -40,3 +40,8 @@ My approach to tackling the Titanic Kaggle competition involved a systematic and
     identify the best-performing model for this specific problem.
     To further boost the model's performance, I employed ensemble methods, I employed the VotingClassifier, a powerful technique that combines multiple individual machine learning models to make collective predictions. The idea behind the VotingClassifier is to take advantage of the diverse strengths and capabilities 
     of various models and create a more robust and accurate prediction ensemble.
+
+## Result
+In the Titanic Kaggle competition, the primary evaluation metric used to assess the performance of our predictive model was accuracy. Accuracy is a widely-used metric for binary classification problems, measuring the percentage of correct predictions made by the model among all the predictions.
+After extensive data exploration, preprocessing, feature engineering, and modeling, my predictive model achieved an impressive accuracy score of 0.81100 on the test dataset. This means that approximately 81.1% of the passengers' survival status was correctly predicted by my model.
+I am thrilled to announce that my submission achieved a remarkable rank of 295 out of 16,204 participants. This outstanding result places my model among the top 2% of all submissions, highlighting its effectiveness and the strength of my approach.
