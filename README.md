@@ -15,3 +15,18 @@ The dataset provides the ground truth label - whether each passenger survived or
  - Embarked: Which port the passenger boarded from
 
 ## Approach
+My approach to tackling the Titanic Kaggle competition involved a systematic and well-structured methodology, which can be summarized into the following key steps:
+ 1. Exploratory Data Analysis (EDA):
+    I started by performing Exploratory Data Analysis on the provided dataset. EDA allowed me to gain a deeper understanding of the data, its distribution, and uncover any potential patterns or insights. By visualizing and summarizing the data, I could identify the relationships between different features and the    
+    target variable - whether a passenger survived or not.
+
+ 2. Data Preprocessing:
+    Data preprocessing is crucial to ensure the data is suitable for training machine learning models. In this step, I addressed missing values, which can significantly impact model performance. Additionally, I leveraged the "Name" feature to extract the titles (e.g., Mr., Mrs., Miss) and converted them into a more 
+    concise representation containing only the first letter of each title. This simplified the data and potentially provided a new feature that could contribute to predicting survival.
+
+ 3. Adding Additional Data:
+    To enhance the predictive power of the model, I explored the possibility of incorporating additional relevant data. This could include external datasets or data that could be derived from the existing features. By intelligently augmenting the dataset, I aimed to provide the model with more information to make 
+    accurate predictions.
+
+ 4. Handling Missing Values:
+    Missing values can introduce bias and hinder model performance. Therefore, I employed various techniques, such as imputation, to fill in missing values for relevant features. By carefully addressing missing data, I aimed to ensure the model's robustness and generalizability.
