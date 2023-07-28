@@ -13,3 +13,5 @@ The dataset provides the ground truth label - whether each passenger survived or
  - Fare: How much the passenger paid for the ticket
  - Cabin: Which cabin the passenger was allocated
  - Embarked: Which port the passenger boarded from
+
+## Approach
